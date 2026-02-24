@@ -2,17 +2,6 @@
 
 > Nền tảng phân tích chứng khoán Việt Nam thông minh — real-time data, chỉ báo kỹ thuật chuyên sâu, và giao diện glassmorphism đẹp mắt.
 
----
-
-## 📸 Preview
-
-<!-- Thêm screenshot app của bạn vào đây -->
-> _Thêm ảnh chụp màn hình app vào thư mục `assets/` và cập nhật đường dẫn bên dưới_
-> 
-> `![App Screenshot](assets/screenshot.png)`
-
----
-
 ## ✨ Tính năng chính
 
 - **📡 Dual Data Source** — Tích hợp cả `vnstock3` API (TCBS real-time) và CafeF CDN (toàn thị trường)
