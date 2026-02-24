@@ -64,8 +64,6 @@ vn-stock-analytics/
 ├── app.py                  # File chính của ứng dụng Streamlit
 ├── requirements.txt        # Danh sách thư viện
 ├── .gitignore              # Các file bị loại khỏi git
-├── assets/                 # Ảnh, screenshot
-│   └── screenshot.png
 └── README.md               # File này
 ```
 
@@ -114,15 +112,3 @@ pip install vnstock3
 | [NumPy](https://numpy.org/) | Tính toán số học |
 | [Requests](https://requests.readthedocs.io/) | HTTP requests |
 | [vnstock3](https://github.com/thinh-vu/vnstock) | Dữ liệu chứng khoán VN |
-
----
-
-## 🤝 Đóng góp
-
-Pull requests are welcome! Để thay đổi lớn, vui lòng mở issue trước để thảo luận.
-
-1. Fork project
-2. Tạo branch mới: `git checkout -b feature/ten-tinh-nang`
-3. Commit thay đổi: `git commit -m 'feat: thêm tính năng X'`
-4. Push lên branch: `git push origin feature/ten-tinh-nang`
-5. Mở Pull Request
